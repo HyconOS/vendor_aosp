@@ -129,6 +129,8 @@ PRODUCT_PACKAGES += \
     GVM-PGM-OPRD \
     GVM-PGM-PURP
 
+DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += vendor/aosp/config/device_framework_matrix.xml
+
 # TouchGestures
 PRODUCT_PACKAGES += \
     TouchGestures
