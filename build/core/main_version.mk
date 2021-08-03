@@ -20,8 +20,8 @@ endif
 
 # Branding
 HYCON_BUILD_TYPE ?= UNOFFICIAL
-HYCON_VERSION := 4.0
-HYCON_CODENAME := Ephemeral
+HYCON_VERSION := 4.5
+HYCON_CODENAME := Elegant
 HYCON_MAINTAINER ?= Unknown
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
